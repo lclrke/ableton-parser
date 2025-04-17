@@ -1,0 +1,5 @@
+
+Run the following with path to als file
+
+
+python3 ~/Desktop/Code/Ableton\ Parser/ableton_extract.py ~/Desktop/your_project.als
